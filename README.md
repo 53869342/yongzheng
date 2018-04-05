@@ -1,6 +1,6 @@
 # yongzhengcro
 
-> 用正医药2
+> 用正医药
 
 ## Build Setup
 
